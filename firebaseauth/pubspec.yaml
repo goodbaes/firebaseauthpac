@@ -1,8 +1,8 @@
 name: firebaseauth
-description: A new Flutter package project.
+description: GetX firebase Auth.
 version: 0.0.1
-author: null
-homepage: null
+author: goodbaes
+homepage: https://github.com/goodbaes/firebaseauthpac
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
